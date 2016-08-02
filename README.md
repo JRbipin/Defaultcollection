@@ -1,3 +1,0 @@
-# Defaultcollection
-first
-read this
